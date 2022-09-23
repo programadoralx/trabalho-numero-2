@@ -14,9 +14,9 @@ public class primeira {
       num = in.nextInt();
       poi = (num%2);
       if (poi==0) {
-    	 System.out.println ("O número "+num+" é par");
+    	 System.out.println ("O nÃºmero "+num+" Ã© par");
       } else {
-    	 System.out.println ("O número "+num+" é impar");
+    	 System.out.println ("O nÃºmero "+num+" Ã© impar");
     	 
       }   
       
@@ -24,3 +24,4 @@ public class primeira {
 	
 	}
 }
+// jadise e samara //
