@@ -16,3 +16,6 @@ b) raiz quadrada de um número
 
 05)fazer um programa que leia um numero N que indique quatro valores inteiros e positivos devem ser lidos a seguir. para cada numero lido, mostre uma tabela contendo o valor lido e o o fatorial desse valor.
 
+06)fazer um programa que receba um número inteiro maior que 1, verifique se o número fornercido é o primeiro ou não e mostre uma mensagem de número primo ou não primo. um número primo quando é primo quando é divisivel apenas por 1 e por ele mesmo.
+
+07)em um campeonato de futebol existem cinco times
